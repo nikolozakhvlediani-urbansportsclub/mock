@@ -4,26 +4,7 @@
     {
       "id": 1477,
       "name": "Holmes Place Gendarmenmarkt",
-      "location": {
-        "displayAddress": "Berlin - Mitte",
-        "city": {
-          "id": 1,
-          "name": "Berlin"
-        },
-        "district": {
-          "id": 7,
-          "name": "Mitte",
-          "area": "Berlin"
-        },
-        "latitude": 52.512282,
-        "longitude": 13.3909095,
-        "postalCode": "10117",
-        "address": "Friedrichstraße 68  Eingang Mohrenstr. 50",
-        "additionalInformation": "f",
-        "country": {
-          "code": "DE"
-        }
-      },
+      "location": null,
       "planTypes": [],
       "planTypesB2B": [],
       "allowedBusinessTypes": [],
