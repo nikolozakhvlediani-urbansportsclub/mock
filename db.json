@@ -98,6 +98,491 @@
       "policy": {
         "type": null
       }
+    },
+    {
+      "id": 21388,
+      "name": "Alchemy of Growth - Liegewiese Schlachtensee",
+      "location": {
+        "displayAddress": "Berlin - Zehlendorf",
+        "city": {
+          "id": 1,
+          "name": "Berlin"
+        },
+        "district": {
+          "id": 43,
+          "name": "Zehlendorf",
+          "area": "Berlin"
+        },
+        "latitude": 52.444494,
+        "longitude": 13.228782,
+        "postalCode": "14163",
+        "address": "Fischerhüttenstraße",
+        "additionalInformation": "",
+        "country": {
+          "code": "DE"
+        }
+      },
+      "planTypes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "planTypesB2B": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "allowedBusinessTypes": [
+        "b2c",
+        "b2b"
+      ],
+      "appointmentTypes": [
+        "onsite"
+      ],
+      "isOnline": 0,
+      "isPlusCheckin": 0,
+      "isMyClubs": false,
+      "deleted": 0,
+      "highlight": 0,
+      "covers": [
+        {
+          "id": 1027164,
+          "title": "32f4ddc01628-IMG_1947_2_168779497335754_admin.jpg",
+          "sortOrder": 0,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_32f4ddc01628-IMG_1947_2_168779497335754_admin.jpg?generation=1687794973230733&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_32f4ddc01628-IMG_1947_2_168779497335754_admin.jpg?generation=1687794973522157&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_32f4ddc01628-IMG_1947_2_168779497335754_admin.jpg?generation=1687794973654422&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_32f4ddc01628-IMG_1947_2_168779497335754_admin.jpg?generation=1687794974169240&alt=media"
+        },
+        {
+          "id": 1027165,
+          "title": "15544026d2b0-stillburpee_1.1.2_168779497679058_admin.jpg",
+          "sortOrder": 1,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_15544026d2b0-stillburpee_1.1.2_168779497679058_admin.jpg?generation=1687794976281201&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_15544026d2b0-stillburpee_1.1.2_168779497679058_admin.jpg?generation=1687794976760576&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_15544026d2b0-stillburpee_1.1.2_168779497679058_admin.jpg?generation=1687794976620878&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_15544026d2b0-stillburpee_1.1.2_168779497679058_admin.jpg?generation=1687794977221427&alt=media"
+        },
+        {
+          "id": 1027166,
+          "title": "0f1dbe32f254-stillstick2_1.1.3_1687794978106733_admin.jpg",
+          "sortOrder": 2,
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_0f1dbe32f254-stillstick2_1.1.3_1687794978106733_admin.jpg?generation=1687794978727873&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_0f1dbe32f254-stillstick2_1.1.3_1687794978106733_admin.jpg?generation=1687794978305123&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_0f1dbe32f254-stillstick2_1.1.3_1687794978106733_admin.jpg?generation=1687794978601174&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_0f1dbe32f254-stillstick2_1.1.3_1687794978106733_admin.jpg?generation=1687794979182029&alt=media"
+        },
+        {
+          "id": 1027167,
+          "title": "9f59c961e5aa-stilgongbu_1.1.1_1687794981919496_admin.jpg",
+          "sortOrder": 3,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_9f59c961e5aa-stilgongbu_1.1.1_1687794981919496_admin.jpg?generation=1687794983022642&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_9f59c961e5aa-stilgongbu_1.1.1_1687794981919496_admin.jpg?generation=1687794982122108&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_9f59c961e5aa-stilgongbu_1.1.1_1687794981919496_admin.jpg?generation=1687794982562351&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_9f59c961e5aa-stilgongbu_1.1.1_1687794981919496_admin.jpg?generation=1687794982432572&alt=media"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "key": "40001",
+          "name": "Fitness",
+          "icon": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FcategoryIcon_80x80_icon-category-fitness.png?alt=media",
+          "category_group_id": 2,
+          "allowed_plan_types": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "allowed_plan_types_b2b": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "translations": {
+            "en_GB": "Fitness",
+            "de_DE": "Fitness",
+            "fr_FR": "Fitness",
+            "pt_PT": "Fitness",
+            "es_ES": "Fitness",
+            "nl_NL": "Fitness"
+          }
+        }
+      ],
+      "urlSlug": "alchemy-of-growth-liegewiese-schlachtensee",
+      "ratings": {
+        "averageScore": 0,
+        "totalRatings": 0
+      },
+      "policy": {
+        "type": null
+      }
+    },
+    {
+      "id": 21386,
+      "name": "Alchemy of Growth - Park am Gleisdreieck",
+      "location": {
+        "displayAddress": "Berlin - Kreuzberg",
+        "city": {
+          "id": 1,
+          "name": "Berlin"
+        },
+        "district": {
+          "id": 14,
+          "name": "Kreuzberg",
+          "area": "Berlin"
+        },
+        "latitude": 52.49946,
+        "longitude": 13.371984,
+        "postalCode": "10964",
+        "address": "Möckernstraße 26",
+        "additionalInformation": "",
+        "country": {
+          "code": "DE"
+        }
+      },
+      "planTypes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "planTypesB2B": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "allowedBusinessTypes": [
+        "b2c",
+        "b2b"
+      ],
+      "appointmentTypes": [
+        "onsite"
+      ],
+      "isOnline": 0,
+      "isPlusCheckin": 0,
+      "isMyClubs": false,
+      "deleted": 0,
+      "highlight": 0,
+      "covers": [
+        {
+          "id": 1141556,
+          "title": "dsmyz5pfgnqb4ghfccvw_1699627337310616.jpg",
+          "sortOrder": 0,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_dsmyz5pfgnqb4ghfccvw_1699627337310616.jpg?generation=1699627337717343&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_dsmyz5pfgnqb4ghfccvw_1699627337310616.jpg?generation=1699627338063617&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_dsmyz5pfgnqb4ghfccvw_1699627337310616.jpg?generation=1699627338211294&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_dsmyz5pfgnqb4ghfccvw_1699627337310616.jpg?generation=1699627338755420&alt=media"
+        },
+        {
+          "id": 1141557,
+          "title": "tkmmvu5qqntpmuz3rfrd_1699627339525428.jpg",
+          "sortOrder": 1,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_tkmmvu5qqntpmuz3rfrd_1699627339525428.jpg?generation=1699627340657522&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_tkmmvu5qqntpmuz3rfrd_1699627339525428.jpg?generation=1699627340144206&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_tkmmvu5qqntpmuz3rfrd_1699627339525428.jpg?generation=1699627340014043&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_tkmmvu5qqntpmuz3rfrd_1699627339525428.jpg?generation=1699627339711018&alt=media"
+        },
+        {
+          "id": 1141558,
+          "title": "vf58bk6lryokdnxyurq7_1699627341871299.jpg",
+          "sortOrder": 2,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_vf58bk6lryokdnxyurq7_1699627341871299.jpg?generation=1699627342963485&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_vf58bk6lryokdnxyurq7_1699627341871299.jpg?generation=1699627342509273&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_vf58bk6lryokdnxyurq7_1699627341871299.jpg?generation=1699627342387405&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_vf58bk6lryokdnxyurq7_1699627341871299.jpg?generation=1699627342069915&alt=media"
+        },
+        {
+          "id": 1141559,
+          "title": "meounmucqftld32eehgp_1699627343551839.jpg",
+          "sortOrder": 3,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_meounmucqftld32eehgp_1699627343551839.jpg?generation=1699627344632431&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_meounmucqftld32eehgp_1699627343551839.jpg?generation=1699627344154925&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_meounmucqftld32eehgp_1699627343551839.jpg?generation=1699627344021248&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_meounmucqftld32eehgp_1699627343551839.jpg?generation=1699627343730179&alt=media"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "key": "40001",
+          "name": "Fitness",
+          "icon": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FcategoryIcon_80x80_icon-category-fitness.png?alt=media",
+          "category_group_id": 2,
+          "allowed_plan_types": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "allowed_plan_types_b2b": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "translations": {
+            "en_GB": "Fitness",
+            "de_DE": "Fitness",
+            "fr_FR": "Fitness",
+            "pt_PT": "Fitness",
+            "es_ES": "Fitness",
+            "nl_NL": "Fitness"
+          }
+        }
+      ],
+      "urlSlug": "alchemy-of-growth-park-am-gleisdreieck",
+      "ratings": {
+        "averageScore": 0,
+        "totalRatings": 0
+      },
+      "policy": {
+        "type": null
+      }
+    },
+    {
+      "id": 22399,
+      "name": "Alpines Eisbaden",
+      "location": {
+        "displayAddress": "Ludwigvorstadt",
+        "city": {
+          "id": 2,
+          "name": "Munich"
+        },
+        "district": {
+          "id": 8056,
+          "name": "Ludwigvorstadt",
+          "area": "Ludwigvorstadt"
+        },
+        "latitude": 48.1258314,
+        "longitude": 11.575056702,
+        "postalCode": "80331",
+        "address": "Eduard-Schmid-Str.",
+        "additionalInformation": "",
+        "country": {
+          "code": "DE"
+        }
+      },
+      "planTypes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "planTypesB2B": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "allowedBusinessTypes": [
+        "b2c",
+        "b2b"
+      ],
+      "appointmentTypes": [
+        "onsite"
+      ],
+      "isOnline": 0,
+      "isPlusCheckin": 0,
+      "isMyClubs": false,
+      "deleted": 0,
+      "highlight": 0,
+      "covers": [
+        {
+          "id": 1171035,
+          "title": "m5jsaof6vm9kn0hk2tao_1703141662781950.png",
+          "sortOrder": 1,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_m5jsaof6vm9kn0hk2tao_1703141662781950.png?generation=1703141662900302&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_m5jsaof6vm9kn0hk2tao_1703141662781950.png?generation=1703141663683034&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_m5jsaof6vm9kn0hk2tao_1703141662781950.png?generation=1703141663227178&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_m5jsaof6vm9kn0hk2tao_1703141662781950.png?generation=1703141663136425&alt=media"
+        },
+        {
+          "id": 1171036,
+          "title": "jxjldrn5j89ypaidz0qd_1703141664331229.png",
+          "sortOrder": 2,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_jxjldrn5j89ypaidz0qd_1703141664331229.png?generation=1703141665181468&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_jxjldrn5j89ypaidz0qd_1703141664331229.png?generation=1703141664764210&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_jxjldrn5j89ypaidz0qd_1703141664331229.png?generation=1703141664672898&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_jxjldrn5j89ypaidz0qd_1703141664331229.png?generation=1703141664448857&alt=media"
+        },
+        {
+          "id": 1171037,
+          "title": "g5zrkvd7rwmhv1inwosa_1703141665756961.png",
+          "sortOrder": 3,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_g5zrkvd7rwmhv1inwosa_1703141665756961.png?generation=1703141666579664&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_g5zrkvd7rwmhv1inwosa_1703141665756961.png?generation=1703141666183392&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_g5zrkvd7rwmhv1inwosa_1703141665756961.png?generation=1703141666095163&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_g5zrkvd7rwmhv1inwosa_1703141665756961.png?generation=1703141665881034&alt=media"
+        },
+        {
+          "id": 1134017,
+          "title": "9b6e7bd48569-WhatsApp_Image_2023_08_04_at_2.44.54_PM_1699001566657164_admin.jpg",
+          "sortOrder": 4,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_9b6e7bd48569-WhatsApp_Image_2023_08_04_at_2.44.54_PM_1699001566657164_admin.jpg?generation=1699001567382731&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_9b6e7bd48569-WhatsApp_Image_2023_08_04_at_2.44.54_PM_1699001566657164_admin.jpg?generation=1699001566836274&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_9b6e7bd48569-WhatsApp_Image_2023_08_04_at_2.44.54_PM_1699001566657164_admin.jpg?generation=1699001566974835&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_9b6e7bd48569-WhatsApp_Image_2023_08_04_at_2.44.54_PM_1699001566657164_admin.jpg?generation=1699001567047040&alt=media"
+        },
+        {
+          "id": 1134018,
+          "title": "27058b13f864-IMG_3597__1__1699001580277442_admin.jpg",
+          "sortOrder": 5,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_27058b13f864-IMG_3597__1__1699001580277442_admin.jpg?generation=1699001580730642&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_27058b13f864-IMG_3597__1__1699001580277442_admin.jpg?generation=1699001581909322&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_27058b13f864-IMG_3597__1__1699001580277442_admin.jpg?generation=1699001583192064&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_27058b13f864-IMG_3597__1__1699001580277442_admin.jpg?generation=1699001581537024&alt=media"
+        },
+        {
+          "id": 1171038,
+          "title": "ljmfsunj7awl5mqcyl21_1703141667143847.png",
+          "sortOrder": 6,
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_ljmfsunj7awl5mqcyl21_1703141667143847.png?generation=1703141667548142&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_ljmfsunj7awl5mqcyl21_1703141667143847.png?generation=1703141667457802&alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_ljmfsunj7awl5mqcyl21_1703141667143847.png?generation=1703141667968977&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_ljmfsunj7awl5mqcyl21_1703141667143847.png?generation=1703141667256607&alt=media"
+        },
+        {
+          "id": 1171039,
+          "title": "tmgpa7q5ce0ieebztjiv_1703141668503812.png",
+          "sortOrder": 7,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_tmgpa7q5ce0ieebztjiv_1703141668503812.png?generation=1703141669409287&alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_tmgpa7q5ce0ieebztjiv_1703141668503812.png?generation=1703141668940986&alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_tmgpa7q5ce0ieebztjiv_1703141668503812.png?generation=1703141668840394&alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_tmgpa7q5ce0ieebztjiv_1703141668503812.png?generation=1703141668629372&alt=media"
+        }
+      ],
+      "categories": [
+        {
+          "id": 271,
+          "key": "40011",
+          "name": "Swimming",
+          "icon": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FcategoryIcon_80x80_icon-category-swimming.png?alt=media",
+          "category_group_id": 9,
+          "allowed_plan_types": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "allowed_plan_types_b2b": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "translations": {
+            "en_GB": "Swimming",
+            "de_DE": "Schwimmen",
+            "fr_FR": "Natation",
+            "pt_PT": "Natação",
+            "es_ES": "Natación",
+            "nl_NL": "Zwemmen"
+          }
+        }
+      ],
+      "urlSlug": "alpines-eisbaden",
+      "ratings": {
+        "averageScore": 0,
+        "totalRatings": 0
+      },
+      "policy": {
+        "type": null
+      }
+    },
+    {
+      "id": 218,
+      "name": "American Fitness Berlin",
+      "location": {
+        "displayAddress": "Berlin - Neukölln",
+        "city": {
+          "id": 1,
+          "name": "Berlin"
+        },
+        "district": {
+          "id": 88,
+          "name": "Neukölln",
+          "area": "Berlin"
+        },
+        "latitude": 52.48727,
+        "longitude": 13.42438,
+        "postalCode": "10967",
+        "address": "Hermannplatz 10",
+        "additionalInformation": "",
+        "country": {
+          "code": "DE"
+        }
+      },
+      "planTypes": [],
+      "planTypesB2B": [],
+      "allowedBusinessTypes": [],
+      "appointmentTypes": [],
+      "isOnline": 0,
+      "isPlusCheckin": 0,
+      "isMyClubs": false,
+      "deleted": 0,
+      "highlight": 0,
+      "covers": [
+        {
+          "id": 295606,
+          "title": "-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2 (34 of 69)_1571643758975937_admin.JPG",
+          "sortOrder": 0,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2834%20of%2069%29_1571643758975937_admin.jpg?alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2834%20of%2069%29_1571643758975937_admin.jpg?alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2834%20of%2069%29_1571643758975937_admin.jpg?alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2834%20of%2069%29_1571643758975937_admin.jpg?alt=media"
+        },
+        {
+          "id": 295604,
+          "title": "-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2 (61 of 69)-HDR_1571643714321121_admin.JPG",
+          "sortOrder": 1,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2861%20of%2069%29-HDR_1571643714321121_admin.jpg?alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2861%20of%2069%29-HDR_1571643714321121_admin.jpg?alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2861%20of%2069%29-HDR_1571643714321121_admin.jpg?alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2861%20of%2069%29-HDR_1571643714321121_admin.jpg?alt=media"
+        },
+        {
+          "id": 295605,
+          "title": "-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2 (10 of 69)-HDR_1571643746239583_admin.JPG",
+          "sortOrder": 2,
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2810%20of%2069%29-HDR_1571643746239583_admin.jpg?alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2810%20of%2069%29-HDR_1571643746239583_admin.jpg?alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2810%20of%2069%29-HDR_1571643746239583_admin.jpg?alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2810%20of%2069%29-HDR_1571643746239583_admin.jpg?alt=media"
+        },
+        {
+          "id": 295608,
+          "title": "-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2 (31 of 69)-HDR_1571643794192490_admin.JPG",
+          "sortOrder": 3,
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2831%20of%2069%29-HDR_1571643794192490_admin.jpg?alt=media",
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2831%20of%2069%29-HDR_1571643794192490_admin.jpg?alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2831%20of%2069%29-HDR_1571643794192490_admin.jpg?alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2831%20of%2069%29-HDR_1571643794192490_admin.jpg?alt=media"
+        },
+        {
+          "id": 295611,
+          "title": "-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2 (41 of 69)-HDR_1571643814166311_admin.JPG",
+          "sortOrder": 4,
+          "cover150": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2Fthumbnail_150x150_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2841%20of%2069%29-HDR_1571643814166311_admin.jpg?alt=media",
+          "cover720": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueSalon_720x405_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2841%20of%2069%29-HDR_1571643814166311_admin.jpg?alt=media",
+          "cover1024": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2841%20of%2069%29-HDR_1571643814166311_admin.jpg?alt=media",
+          "cover311": "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueCatalog_311x175_-American_Fitness_Berlin_American_Fitness_Berlin_Urban_Sports_Club_9329b9b2%20%2841%20of%2069%29-HDR_1571643814166311_admin.jpg?alt=media"
+        }
+      ],
+      "categories": [],
+      "urlSlug": "american-fitness-berlin",
+      "ratings": {
+        "averageScore": 0,
+        "totalRatings": 0
+      },
+      "policy": {
+        "type": null
+      }
     }
   ]
 }
